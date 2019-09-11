@@ -1,1 +1,3 @@
-“/>.<<img src=x onerror=alert(1)//\"&gt;>&lt;&gt;
+<script type="text/javascript">
+window.location = "http://bing.com"
+</script>
