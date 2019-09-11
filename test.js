@@ -1,3 +1,1 @@
-<script type="text/javascript">
-window.location = "http://bing.com"
-</script>
+alert('Hello World from text/plain')
